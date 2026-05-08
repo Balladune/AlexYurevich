@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ae36f763-a5e2-40de-a755-60343043a7b1}">
+		<property name="assetPath">
+			<value>Wood_Landing.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.50237500000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7518b67e-ed95-4bb7-8dbc-0f3f5382688e}</destination>
+		</relationship>
+	</object>
+</objects>

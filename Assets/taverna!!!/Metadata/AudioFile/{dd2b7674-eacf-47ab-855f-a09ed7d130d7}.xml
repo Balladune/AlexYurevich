@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dd2b7674-eacf-47ab-855f-a09ed7d130d7}">
+		<property name="assetPath">
+			<value>Wood_Run-004.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.21875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7518b67e-ed95-4bb7-8dbc-0f3f5382688e}</destination>
+		</relationship>
+	</object>
+</objects>
